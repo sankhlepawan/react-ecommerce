@@ -5,5 +5,7 @@ import Header from "./header/header.component";
 import SignIn from "./sign-in/sign-in.component";
 import FormInput from './form-input/form-input.component';
 import CustomButton from "./custom-button/custom-button.component";
+import SignUp from "./sing-up/sign-up.component";
 
-export { Directory, MenuItem, CollectionPreview, Header, SignIn, FormInput, CustomButton }
+
+export { Directory, MenuItem, CollectionPreview, Header, SignIn, FormInput, CustomButton, SignUp }
