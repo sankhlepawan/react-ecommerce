@@ -6,6 +6,7 @@ import SignIn from "./sign-in/sign-in.component";
 import FormInput from './form-input/form-input.component';
 import CustomButton from "./custom-button/custom-button.component";
 import SignUp from "./sing-up/sign-up.component";
+import CartIcon from './cart-icon/cart-icon.component';
+import CartDropdown from './cart-dropdown/cart-dropdown.component';
 
-
-export { Directory, MenuItem, CollectionPreview, Header, SignIn, FormInput, CustomButton, SignUp }
+export { Directory, MenuItem, CollectionPreview, Header, SignIn, FormInput, CustomButton, SignUp, CartIcon, CartDropdown}
