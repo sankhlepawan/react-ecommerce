@@ -2,15 +2,7 @@ import firebase from 'firebase/app';
 import 'firebase/firestore';
 import 'firebase/auth';
 
-var config = {
-    apiKey: "AIzaSyAnOtluGRVFG8lBNaQOVoqiH1Lu5GCmlus",
-    authDomain: "psankhle-ecomm.firebaseapp.com",
-    projectId: "psankhle-ecomm",
-    storageBucket: "psankhle-ecomm.appspot.com",
-    messagingSenderId: "750337458419",
-    appId: "1:750337458419:web:03088ca634b4cdd038f786",
-    measurementId: "G-EVC8MPDNYR"
-};
+var config = {};
 
 
 firebase.initializeApp(config);
