@@ -8,5 +8,6 @@ import CustomButton from "./custom-button/custom-button.component";
 import SignUp from "./sing-up/sign-up.component";
 import CartIcon from './cart-icon/cart-icon.component';
 import CartDropdown from './cart-dropdown/cart-dropdown.component';
+import CartItem from './cart-item/cart-item.component';
 
-export { Directory, MenuItem, CollectionPreview, Header, SignIn, FormInput, CustomButton, SignUp, CartIcon, CartDropdown}
+export { Directory, MenuItem, CollectionPreview, Header, SignIn, FormInput, CustomButton, SignUp, CartIcon, CartDropdown, CartItem }
